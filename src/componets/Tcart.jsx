@@ -60,7 +60,7 @@ function Tcart() {
       description:
         "5 Days All Inclusive Like Round Trip Flights, Airport Transfers, 5 Star Hotel, 4 Activities, Visa, Selected Meals and much more.",
       price: "₹85,000 Only",
-      img: "https://static.javatpoint.com/top10-technologies/images/top-10-tourist-places-in-world3.png",
+      img: "https://i.natgeofe.com/n/3012ffcc-7361-45f6-98b3-a36d4153f660/colosseum-daylight-rome-italy.jpg",
       animation: "fade-left",
     },
     {
@@ -68,7 +68,7 @@ function Tcart() {
       description:
         "7 Days All Inclusive Like Round Trip Flights, Airport Transfers, 5 Star Hotel, 6 Activities, Visa, Selected Meals and much more.",
       price: "₹100,000 Only",
-      img: "https://static.javatpoint.com/top10-technologies/images/top-10-tourist-places-in-world4.png",
+      img: "https://media.istockphoto.com/id/866887704/photo/wellington-cable-car-the-landmark-of-new-zealand.jpg?s=612x612&w=0&k=20&c=8Q5NkM4ce57tDA6P0WoSsXaGhy-v92PGeu5yK0HBlhw=",
       animation: "fade-right",
     },
     {
@@ -76,7 +76,7 @@ function Tcart() {
       description:
         "5 Days All Inclusive Like Round Trip Flights, Airport Transfers, 5 Star Hotel, 6 Activities, Visa, Selected Meals and much more.",
       price: "₹85,000 Only",
-      img: "https://static.javatpoint.com/top10-technologies/images/top-10-tourist-places-in-world6.png",
+      img: "https://www.lakenakurukenya.com/wp-content/uploads/2021/09/seeing-elephants-on-a-game-drive-in-the-masai-mara.jpg",
       animation: "zoom-in-up",
     },
     {
@@ -84,7 +84,7 @@ function Tcart() {
       description:
         "3 Days All Inclusive Like Round Trip Flights, Airport Transfers, 5 Star Hotel, 6 Activities, Visa, Selected Meals and much more.",
       price: "₹44,999 Only",
-      img: "https://ihplb.b-cdn.net/wp-content/uploads/2018/08/Agra-Taj-Mahal-1.jpg",
+      img: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg",
       animation: "fade-left",
     },
     {
@@ -92,7 +92,7 @@ function Tcart() {
       description:
         "6 Days All Inclusive Like Round Trip Flights, Airport Transfers, 5 Star Hotel, 6 Activities, Visa, Selected Meals and much more.",
       price: "₹89,999 Only",
-      img: "https://static.javatpoint.com/top10-technologies/images/top-10-tourist-places-in-world7.png",
+      img: "https://cms.inspirato.com/ImageGen.ashx?image=%2Fmedia%2F5682444%2FLondon_Dest_16531610X.jpg&width=1081.5",
       animation: "fade-right",
     },
     {
@@ -108,7 +108,7 @@ function Tcart() {
       description:
         "8 Days All Inclusive Like Round Trip Flights, Airport Transfers, 5 Star Hotel, 6 Activities, Visa, Selected Meals and much more.",
       price: "₹105,000 Only",
-      img: "https://static.javatpoint.com/top10-technologies/images/top-10-tourist-places-in-world1.png",
+      img: "https://www.alpacaexpeditions.com/wp-content/webp-express/webp-images/uploads/top-destinations-machu-picchu-1.jpg.webp",
       animation: "fade-left",
     },
   ];

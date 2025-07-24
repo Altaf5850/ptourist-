@@ -89,7 +89,7 @@ function Package() {
     },
     {
       imgSrc:
-        "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcT1a8beblEh3pmOytuvrE_DxxBdwG_XCCG906Fr4mcacdWG0kxhziD6rImbNjkWMbE6",
+        "https://www.tahititourisme.com/app/uploads/2023/06/bora-bora-la-perle-du-pacifique-a-stephane-mailion-photography.webp",
       title: "Bora Bora Package",
       description:
         "6 Days All Inclusive with Round Trip Flights, Airport Transfers, 4.5 Star Hotel, 4 Activities, Visa, and Selected Meals.",
@@ -161,7 +161,7 @@ function Package() {
     },
     {
       imgSrc:
-        "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSn3gJljYQk52yY4mRYndwgX6WiX2B_RHbOhkl4uMR7VjiBgtnnhLOix7OPFuLXcdbi",
+        "https://www.andbeyond.com/wp-content/uploads/sites/5/A-tender-moment-between-Lioness-and-cub.jpg",
       title: "Kruger National Park Package",
       description:
         "7 Days All Inclusive with Round Trip Flights, Airport Transfers, 5 Star Hotel, 5 Activities, Visa, and Selected Meals.",

@@ -4,7 +4,7 @@ const Blogss = () => {
   const blogs = [
     {
       title: "HOW TO PLAN YOUR TRIP",
-      img: "https://media.istockphoto.com/id/1354237603/photo/we-are-planning-a-vacation.jpg?s=612x612&w=0&k=20&c=5TML_4JvwR22gh3gydNrsw1gf7t_oMEZA1K4z6HQZsg=",
+      img: "https://hotelwoodlandnainital.com/wp-content/uploads/2024/09/Plan-Your-Trip.png",
       desc: "Planning your trip can be a lot of work! Where do you start? What’s step one? What’s step two? What’s step three? Fret not! This page will give you all the best resources I have for planning your trip from start to finish.",
       link: "https://www.nomadicmatt.com/how-to-plan-your-trip/",
     },
@@ -28,7 +28,7 @@ const Blogss = () => {
     },
     {
       title: "HOW TO HANDLE LIFE ON THE ROAD",
-      img: "https://media.farandwide.com/8c/0b/8c0be9971dc34505bad65255f9124889.jpeg",
+      img: "https://comeandreason.com/images/stories/ForkInRoad_shutterstock_466547954_1500.jpg",
       desc: "Long-term travel is one of the most exciting, interesting, and learning experiences a person can do in their lifetime. It makes you a far more well-adjusted person, more open-minded, more independent, and more confident.",
       link: "https://www.nomadicmatt.com/life-on-road/",
     },
